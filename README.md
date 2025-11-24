@@ -1,7 +1,7 @@
 <html>
   <body>
-    <h1>Karla Mae Ibuig 🌸</h1>
-    <p>Aspiring Data Engineer - SQL - Java - HTML/CSS</p>
+    <h1>Hey there! I'm Karla Mae Ibuig 🌸</h1>
+    <p>I'm currently learning computer science and foster the skills of coding aside from drawing :)</p>
   </body>
   <h2>Education 📚</h2>
   <ul>
