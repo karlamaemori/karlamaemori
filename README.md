@@ -9,7 +9,9 @@
   </ul>
   <h2>Certifications 📜</h2>
   <ul>
-    <li href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d">SQL and Relational Databases 101</li>
+    <li> 
+      <a href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d" target="_blank">SQL and Relational Databases 101</a>
+      </li>
   </ul>
   <h2>Skillsets 💻</h2>
   <h3>Technical</h3>
