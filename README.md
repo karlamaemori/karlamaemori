@@ -23,6 +23,6 @@
   <h3>Soft Skills</h3>
   <ul>
   <li>Layout Designing</li>
-  <li>Attention ot detail</li>
+  <li>Attention to detail</li>
   </ul>
 </html>
