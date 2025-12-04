@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>Hey there! I'm Karla Mae Ibuig 🌸</h1>
+    <h1>Karla Mae Ibuig 🌸</h1>
     <p>I'm currently learning computer science and foster the skills of coding aside from drawing :)</p>
   </body>
   <h2>Education 📚</h2>
