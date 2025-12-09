@@ -12,6 +12,7 @@
     <li> 
       <a href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d" target="_blank">SQL and Relational Databases 101</a>
       </li>
+    <li>Oracle Cloud Infrastructure Foundations Associate</li>
   </ul>
   <h2>Skillsets 💻</h2>
   <h3>Technical</h3>
