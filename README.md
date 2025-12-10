@@ -12,7 +12,9 @@
     <li> 
       <a href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d" target="_blank">SQL and Relational Databases 101</a>
       </li>
-    <li>Oracle Cloud Infrastructure Foundations Associate</li>
+    <li>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9F40B8AC9D4D6D019732F21331C6AD7DD307C4D12DD51AEF821F5107B2B77081" target="_blank">Oracle Cloud Infrastructure Foundations Associate</a>
+    </li>
   </ul>
   <h2>Skillsets 💻</h2>
   <h3>Technical</h3>
