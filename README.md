@@ -15,6 +15,8 @@
     <li>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9F40B8AC9D4D6D019732F21331C6AD7DD307C4D12DD51AEF821F5107B2B77081" target="_blank">Oracle Cloud Infrastructure Foundations Associate</a>
     </li>
+    <li>Become an Oracle Data Platform Foundations Associate</li>
+    <li>Become An OCI AI Foundations Associate</li>
   </ul>
   <h2>Skillsets 💻</h2>
   <h3>Technical</h3>
