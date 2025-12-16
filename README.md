@@ -18,7 +18,9 @@
     <li>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC233C089CF1150D04B2C552432F77AD3D349352FEAFF9F383B279207AC70F0B" target="_blank">Become an Oracle Data Platform Foundations Associate - December 2025</a>
     </li>
-    <li>Become An OCI AI Foundations Associate - December 2025</li>
+    <li>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D63D944149A856FC675A6B0E0774BE79E7ED153A08AB84D6A055022BED77561" target="_blank">Become An OCI AI Foundations Associate - December 2025</a>
+    </li>
   </ul>
   <h2>Skillsets 💻</h2>
   <h3>Technical</h3>
