@@ -26,6 +26,7 @@
     <li>Java</li>
     <li>SQL</li>
     <li>HTML/CSS</li>
+    <li>Illustration</li>
   </ul>
   <h3>Soft Skills</h3>
   <ul>
