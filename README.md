@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/35/ff/38/35ff38b51856ba99c5742190bfa39134.gif" width="100" />
 </p>
 
-<h3 align"center">Computer Science Student | Aspiring Automation & Workflow Engineer</h3>
+<h2 align="center"> Computer Science Student | Aspiring Automation & Workflow Engineer </h2>
 
 ---
 
