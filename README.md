@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karla</h1>
+<h1 align="center">
+  Hi, I'm Karla 👋
+</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/35/ff/38/35ff38b51856ba99c5742190bfa39134.gif" width="100" />
+  <img src="https://media.tenor.com/QRcg1zh2IcEAAAAj/sanrio-emoji.gif" width="150" </>
 </p>
 
 <h2 align="center"> Computer Science Student | Aspiring Automation & Workflow Engineer </h2>
@@ -12,7 +14,7 @@
 - 🔭 I'm currently building automation pipelines using **Make.com**, **Notion**, and **Google Sheets** as a structured backend
 - 🌱 I'm currently mastering **no-code automation** (Make/Integromat and N8N) and learning **Japanese** 🇯🇵
 - 💬 Ask me about **workflow automation, CRM integrations (GoHighLevel & Zoho CRM), JSON mapping, and process architecture**
-- ⚡ Fun fact: I'm dedicated to learning Japanese while mastering no-code automation at the same time — one language for machines, one for people!
+- ⚡ Useless fact about me: I'm dedicated to learning Japanese while mastering no-code automation at the same time; I literally just wanted to understand Vaundy's songs lol
 
 ---
 
@@ -38,8 +40,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="[https://github.com/YOUR-GITHUB-USERNAME](https://github.com/karlamaemori)" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/karla-mae-ibuig-35a17340a)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="\https://github.com/karlamaemori" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karla-mae-ibuig-35a17340a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ### Tools & Tech:
