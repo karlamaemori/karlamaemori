@@ -12,7 +12,7 @@
 
 - 🎓 I'm a **Computer Science student** on a mission to master **workflow automation** and no-code/low-code systems
 - 🔭 I'm currently building automation pipelines using **Make.com**, **Notion**, and **Google Sheets** as a structured backend
-- 🌱 I'm currently mastering **no-code automation** (Make/Integromat and N8N) and learning **Japanese** 🇯🇵
+- 🌱 I'm currently mastering **no-code automation** (Make/Integromat and N8N), **automation testing** (Playwright, Jira, Selenium) and learning **Japanese** 🇯🇵
 - 💬 Ask me about **workflow automation, CRM integrations (GoHighLevel & Zoho CRM), JSON mapping, and process architecture**
 - ⚡ Useless fact about me: I'm dedicated to learning Japanese while mastering no-code automation at the same time; I literally just wanted to understand Vaundy's songs lol
 
