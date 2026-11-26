@@ -1,58 +1,63 @@
-<h1 align="center">
-  Hi, I'm Karla 👋
-</h1>
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://media.tenor.com/QRcg1zh2IcEAAAAj/sanrio-emoji.gif" alt="pompompurin" width="150" />
+</div>
+<p align="center"> (Intern @ BlueShirts Solutions)</p>
 
+<h2 align="center"> 👩‍💻 Who am I</h2>
 <p align="center">
-  <img src="https://media.tenor.com/QRcg1zh2IcEAAAAj/sanrio-emoji.gif" width="150" </>
+  <samp>Hi, I'm Karla! A Computer Science student and aspiring Automation & Workflow Engineer, currently an intern at BlueShirts Solutions. I build automation pipelines with Make.com, Notion, and Google Sheets as a structured backend, and I turn messy client workflows into clean, repeatable systems.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=karlamaemori" alt="profile views" />
 </p>
 
-<h2 align="center"> Computer Science Student | Aspiring Automation & Workflow Engineer </h2>
+<hr>
 
----
-
-- 🎓 I'm a **Computer Science student** on a mission to master **workflow automation** and no-code/low-code systems
-- 🔭 I'm currently building automation pipelines using **Make.com**, **Notion**, and **Google Sheets** as a structured backend
-- 🌱 I'm currently mastering **no-code automation** (Make/Integromat and N8N), **automation testing** (Playwright, Jira, Selenium) and learning **Japanese** 🇯🇵
-- 💬 Ask me about **workflow automation, CRM integrations (GoHighLevel & Zoho CRM), JSON mapping, and process architecture**
-- ⚡ Useless fact about me: I'm dedicated to learning Japanese while mastering no-code automation at the same time; I literally just wanted to understand Vaundy's songs lol
-
----
-
-### 🎓 Certifications:
-
-| Certification | Date |
-|---|---|
-| <a href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d" target="_blank">SQL and Relational Databases 101</a>| November 2025 |
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9F40B8AC9D4D6D019732F21331C6AD7DD307C4D12DD51AEF821F5107B2B77081" target="_blank">Oracle Cloud Infrastructure Foundations Associate</a> | December 2025 |
-|   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC233C089CF1150D04B2C552432F77AD3D349352FEAFF9F383B279207AC70F0B" target="_blank">Become an Oracle Data Platform Foundations Associate</a> | December 2025 |
-|  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D63D944149A856FC675A6B0E0774BE79E7ED153A08AB84D6A055022BED77561" target="_blank">Become An OCI AI Foundations Associate</a> | December 2025 |
- 
----
-
-### 🧠 Soft Skills:
-- **Process Thinking**; mapping messy client workflows into clean, repeatable pipelines
-- **Client Communication**; translating technical automation into outcome-first language for non-technical founders
-- **Systems Debugging**; tracing breakpoints across multi-tool pipelines (Sheets → Make.com → Notion/CRM)
-- **Attention to Detail**; precise JSON/field mapping where a single mismatch breaks a workflow
-- **Self-Directed Learning**; picking up new no-code tools and integrations independently
-
----
-
-### Connect with me:
-<p align="left">
-<a href="\https://github.com/karlamaemori" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/karla-mae-ibuig-35a17340a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GoHighLevel-1E6FEB?style=for-the-badge&logo=gohighlevel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JSON_Mapping-000000?style=for-the-badge&logo=json&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Process_Architecture-5C6BC0?style=for-the-badge&logoColor=white" />
 </p>
 
-### Tools & Tech:
-<p align="left">
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/GoHighLevel-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<hr>
+
+<h2 align="center"> 🌱 Currently Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apidog-8B3DFF?style=for-the-badge&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-%E6%97%A5%E6%9C%AC%E8%AA%9E-BC002D?style=for-the-badge" />
+</p>
+<p align="center"><samp>🇯🇵 I literally just wanted to understand Vaundy's songs lol</samp></p>
+
+<hr>
+
+
+<h2 align="center"> 🧠 Soft Skills</h2>
+<p align="center">
+  <samp>Process Thinking · Client Communication · Systems Debugging · Attention to Detail · Self-Directed Learning</samp>
+</p>
+<p align="center">
