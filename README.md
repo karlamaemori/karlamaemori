@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/karlamaemori/karlamaemori/blob/initial-design/Karla%E2%80%99s%20GitHub%20README.png" />
+  <img src="https://github.com/karlamaemori/karlamaemori/blob/main/Karla%E2%80%99s%20GitHub%20README%20(1).png" />
 </div>
 <p align="center"><strong>Intern @ BlueShirts Solutions</strong></p>
 
@@ -61,3 +61,45 @@
   <samp>Process Thinking · Client Communication · Systems Debugging · Attention to Detail · Self-Directed Learning</samp>
 </p>
 <p align="center">
+ <samp>Mapping messy workflows into clean pipelines, translating automation into outcome-first language for non-technical founders, and tracing breakpoints across Sheets → Make.com → Notion/CRM.</samp>
+</p>
+
+<hr>
+
+<h2 align="center"> 🎓 Certifications</h2>
+<div align="center">
+  <table>
+    <tr>
+      <th>Certification</th>
+      <th>Date</th>
+    </tr>
+    <tr>
+      <td><a href="https://courses.cognitiveclass.ai/certificates/920d56b8d200430a8fc909c777fc532d" target="_blank">SQL and Relational Databases 101</a></td>
+      <td>November 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9F40B8AC9D4D6D019732F21331C6AD7DD307C4D12DD51AEF821F5107B2B77081" target="_blank">Oracle Cloud Infrastructure Foundations Associate</a></td>
+      <td>December 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC233C089CF1150D04B2C552432F77AD3D349352FEAFF9F383B279207AC70F0B" target="_blank">Oracle Data Platform Foundations Associate</a></td>
+      <td>December 2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D63D944149A856FC675A6B0E0774BE79E7ED153A08AB84D6A055022BED77561" target="_blank">OCI AI Foundations Associate</a></td>
+      <td>December 2025</td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<h2 align="center"> 📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/karla-mae-ibuig-35a17340a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/karlamaemori"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2 align="center"> 💻 Check Out My Repos ⬇️ </h2>
