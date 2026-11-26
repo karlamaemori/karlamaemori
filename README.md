@@ -1,12 +1,12 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://media.tenor.com/QRcg1zh2IcEAAAAj/sanrio-emoji.gif" alt="pompompurin" width="150" />
+  <img src="https://github.com/karlamaemori/karlamaemori/blob/initial-design/Karla%E2%80%99s%20GitHub%20README.png" />
 </div>
-<p align="center"> (Intern @ BlueShirts Solutions)</p>
+<p align="center"><strong>Intern @ BlueShirts Solutions</strong></p>
 
 <h2 align="center"> 👩‍💻 Who am I</h2>
 <p align="center">
-  <samp>Hi, I'm Karla! A Computer Science student and aspiring Automation & Workflow Engineer, currently an intern at BlueShirts Solutions. I build automation pipelines with Make.com, Notion, and Google Sheets as a structured backend, and I turn messy client workflows into clean, repeatable systems.
+  <samp>Hi, I'm Karla! A Computer Science student and aspiring QA Automation Engineer, currently an intern at BlueShirts Solutions. With hands-on experience turning messy workflows into clean, repeatable systems using Make.com, Notion, and Google Sheets, I bring a detail-oriented, structured approach to manual testing and bug tracking.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=karlamaemori" alt="profile views" />
@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-%E6%97%A5%E6%9C%AC%E8%AA%9E-BC002D?style=for-the-badge" />
 </p>
-<p align="center"><samp>🇯🇵 I literally just wanted to understand Vaundy's songs lol</samp></p>
+<p align="center"><samp>PS. I literally just wanted to understand Aimyon and Vaundy's songs lol</samp></p>
 
 <hr>
 
