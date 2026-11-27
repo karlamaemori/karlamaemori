@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/karlamaemori/karlamaemori/blob/main/Karla%E2%80%99s%20GitHub%20README%20(1).png" />
 </div>
-<p align="center"><strong>Intern @ BlueShirts Solutions</strong></p>
+<p align="center"><strong>Intern @ BlueShirt Solutions</strong></p>
 
 <h2 align="center"> 👩‍💻 Who am I</h2>
 <p align="center">
